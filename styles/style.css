@@ -1,0 +1,162 @@
+.div1{
+   background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0)),url(../images/Banner\ Image.png);
+    
+    width: 1320px;
+    height: 600px;
+    border-radius:18px ;
+    display: flex;
+    margin: 100px auto;
+    
+   
+
+}
+.p1_head1_container{
+    width: 632px;
+    height: 210px;
+    margin: 195px 344px;
+      
+}
+
+#p1{
+    font-size: 32px;
+    color: white;
+    margin-bottom: 0px;
+    text-align: center; 
+}
+#head1{
+    color: white;
+    font-size: 60px;
+    margin-top: 0px;
+    text-align: center; 
+   
+}
+
+#offer-title{
+    font-size: 88px;
+    font-weight: bold;
+    color: #FF0000;
+    margin-bottom: 45px;
+    
+}
+
+#off-des{
+    font-size: 24px;
+    color: #FF0000;
+    font-weight: 700;
+    margin: 0px;
+    
+}
+
+#off-sub-title{
+    font-size: 48px;
+    font-weight: bold;
+    color: #070211;
+    margin: 0px;
+    
+}
+
+.div-2{
+    display: flex;
+    /* width: 802.9px;
+    height: 806px; */
+    
+}
+
+.container-2{
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+}
+
+#image-new-year{
+   
+    width:802.9px ;
+    height:500px ;
+    
+}
+
+.div-3{
+    background:radial-gradient(rgba(0,0,0,0.3),rgba(0,0,0,1)), url(../images/Vectorrr.png); 
+    /* background: linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0.9));
+    background: radial-gradient(rgba(0,0,0,0.3),rgba(0,0,0,1)); */
+    width: 1320px;
+    height: 600px;
+    margin: 150px auto;
+    border-radius: 10px;
+    display: flex;
+}
+
+.container-3{
+    padding: 90px;
+}
+
+.div_image{
+  width: 280px;
+  height: 380px;
+    padding:70px 50px 50px 60px ;
+ }
+
+#welcome-title{
+    font-size: 80px;
+    color: white;
+    width:642px ;
+    height:154.59px ;
+    font-weight: bold;
+}
+
+#welcome-description{
+    font-size: 18px;
+    color: white;
+    width:697px ;
+    height:53px ;
+    margin-top: 0px;
+}
+
+
+#welcome-join-paragraph{
+    width:103px ;
+    height:21px ;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+   padding-left: 80px;
+}
+
+
+
+.div-4{
+    background: linear-gradient(rgb(244, 223, 223),rgb(0, 0, 100,0));
+    width: 1320px;
+    height: 482px;
+    margin: 150px auto;
+    border-radius: 10px;
+}
+
+.container-4{
+    text-align: center;
+    padding-top: 80px;
+}
+
+
+
+.para-4{
+    font-size: 32px;
+    font-weight: 600;
+    color: #070211;
+}
+
+.s{
+    color: #FF0000;
+}
+
+.btn{
+    width: 167px;
+    height: 56px;
+    font-size: 18px;
+    background-color: #FF0000;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    margin-top: 30px;
+}
+
