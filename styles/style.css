@@ -160,3 +160,233 @@
     margin-top: 30px;
 }
 
+
+#sec-x{
+    display: flex;
+    justify-content: space-around;
+    width: 1320px;
+    height: 463px;
+    margin: 150px auto;
+}
+
+.container-5{
+    margin-top: 100px;
+}
+
+
+.best-offer-1{
+    font-size: 24px;
+    font-weight: 500;
+    color: #FF0000;
+    margin-bottom: 10px;
+    width: 207px;
+    height: 27px;
+}
+
+.best-offer-2{
+
+        font-size: 48px;
+        font-weight: 800;
+        color: #070211;
+        margin: 0px;
+        width: 328px;
+        height: 60px;
+
+}
+
+.best-offer-3{
+
+    font-size: 20px;
+    font-weight: 500;
+    color: #070211;
+    margin: 0px;
+    width: 393px;
+    height: 128px;
+
+
+}
+
+#ellipse-image{
+   
+    border:10px solid #FF0000 ;
+    border-radius: 50%;
+    padding: 30px;
+    margin-left: 120px;
+
+}
+
+
+#last-p1{
+    font-size: 48px;
+    font-weight: 500;
+    color: #FF0000;
+    margin: 0px;
+}
+
+#last-p2{
+    font-size: 20px;
+    font-weight: normal;
+    color: #070211;
+    width: 276px;
+    height: 96px;
+}
+
+#last-part-image{
+    width: 140px;
+    height: 140px;
+    margin: 0px;
+}
+
+.container-7{
+    margin-top: 70px;
+    margin-left: 120px;
+}
+
+
+#section-50-off{
+    /* display: flex; */
+    width: 1320px;
+    height: 900px;
+    background-image: url(../images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin: 150px auto;
+}
+
+#container-8{
+    margin-bottom: 0px;
+    display: flex;
+   
+}
+
+#xy{
+    /* margin-left: 200px; */
+}
+
+#p1-50{
+
+    font-size: 24px;
+    font-weight: 500;
+    color: #070211;
+    width: 263px;
+    height: 29px;
+    margin-bottom: 0px;
+    margin-left: 550px;
+   text-align: center;
+   
+   
+
+}
+
+#p2-50{
+
+    font-size: 72px;
+    font-weight: bold;
+    color: #070211;
+    width: 677px;
+    height: 91px;
+    margin: 0px;
+    text-align: center;
+    margin-left: 320px;
+   
+}
+
+#p3-50{
+
+    font-size: 20px;
+    font-weight: 500;
+    color: #070211;
+    width: 1068px;
+    height:96px;
+    margin: 0px;
+    margin-left: 110px;
+    text-align: center;
+   
+    
+
+}
+
+
+.container-9{
+    margin-top: 0px;
+   
+}
+
+#sec-colom-image{
+    
+    width: 1320px;
+    height: 1163px;
+    margin-left: 100px;
+
+}
+
+#i-c{
+    display: flex;
+    margin: 0px auto;
+    /* justify-content: space-around; */
+   
+}
+
+.im{
+    width: 424px;
+    height: 450px;
+    margin: 0px;
+    margin-bottom: 10px;
+   
+}
+
+#Newsletter{
+    background-color:rgb(244, 223, 223) ;
+    border-radius: 10px;
+    width: 1320px;
+    height: 616px;
+    margin:100px auto ;
+   
+}
+
+
+#newsletter-image{
+    width: 150px;
+    height: 150px;
+    margin-left: 600px;
+    margin-top: 100px;
+}
+
+.s-n{
+    font-size: 48px;
+    font-weight: 800;
+    margin: 0px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    margin-left: 450px;
+}
+
+#inp{
+    width: 400px;
+    height: 50px;
+    border-radius: 50px;
+    font-size: 25px;
+    padding: 15px;
+    padding-left: 50px;
+    margin-left: 350px;
+    margin-right: 0px;
+}
+
+#sub-btn{
+    width: 200px;
+    height: 80px;
+    background-color: #FF0000;
+    border-radius: 50px;
+    font-size: 25px;
+    padding: 15px;
+    margin: 0px;
+}
+
+
+
+
+
+
+
+
+
